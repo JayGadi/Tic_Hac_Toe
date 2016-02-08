@@ -8,22 +8,22 @@ All rights reserved to the creaters of the images used in the game.
 
 Intall intructions:
 
-1. Pull repository onto Android Studio
-2. Put phone into developer mode (Google intructions if needed)
-3. Run app in Android Studio, and select the phone under available devices and install the .apk onto the phone
-4. Select "Tic Hac Toe" to play game
+1. Pull repository onto Android Studio <br />
+2. Put phone into developer mode (Google intructions if needed) <br />
+3. Run app in Android Studio, and select the phone under available devices and install the .apk onto the phone <br />
+4. Select "Tic Hac Toe" to play game <br />
 
 **Sound Ready**
 
-Game intructions: 
-**Single Player**
-1. To play single player, press "One Player"
-2. Enter your username
-3. Select a marker type: "X" or "O"
-4. Select difficulty "Easy", "Medium" or "Hard"
-5. Select Start
-6. Play Tic Tac Toe as you normally would
-7. Once game is over, you can select to play a new game or go back to the main menu
+Game intructions: <br />
+**Single Player** <br />
+1. To play single player, press "One Player" <br />
+2. Enter your username <br />
+3. Select a marker type: "X" or "O" <br />
+4. Select difficulty "Easy", "Medium" or "Hard" <br />
+5. Select Start <br />
+6. Play Tic Tac Toe as you normally would <br />
+7. Once game is over, you can select to play a new game or go back to the main menu <br />
 
 **Multiplayer Local**
 1. To play multiplayer local, press "Two Player"
