@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.tic_tac_toe.view.TwoPlayerActivityBluetooth">
+
+    <include
+        android:id="@+id/options_bar"
+        layout="@layout/tool_bar"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/options_bar"
+        android:background="#fff">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/your_name"
+            android:layout_marginTop="100dp"
+            android:text="Your Name"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/player_name"
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/your_name"
+            android:layout_toLeftOf="@+id/m_marker"
+            android:hint="Player Name"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/your_marker"
+            android:layout_alignTop="@+id/your_name"
+            android:layout_alignParentRight="true"
+            android:text="Your Marker"/>
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/m_marker"
+            android:layout_below="@+id/your_marker"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="15dp"
+            android:layout_alignParentRight="true"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/opponent_name"
+            android:layout_marginTop="30dp"
+            android:layout_below="@+id/player_name"
+            android:text="Opponent's Name"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/remote_name"
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/opponent_name"
+            android:layout_toLeftOf="@+id/o_marker"
+            android:hint="Player Name"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/remote_marker"
+            android:layout_alignTop="@+id/opponent_name"
+            android:layout_alignParentRight="true"
+            android:text="Opponent's Marker"/>
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/o_marker"
+            android:layout_below="@+id/remote_marker"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="15dp"
+            android:layout_alignParentRight="true"/>
+
+    </RelativeLayout>
+
+</RelativeLayout>
