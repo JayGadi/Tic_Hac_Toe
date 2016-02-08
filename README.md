@@ -24,25 +24,25 @@ Game intructions: <br />
 5. Select Start <br />
 6. Play Tic Tac Toe as you normally would <br />
 7. Once game is over, you can select to play a new game or go back to the main menu <br />
-
-**Multiplayer Local**
-1. To play multiplayer local, press "Two Player"
-2. Select "Local" on the game type
-3. Enter a name for player one and player two
-4. Select player one's marker: "X" or "O"
-5. Press Start
-6. Player One goes first, Play Tic Tac Toe as you normally would
-7. Once game is over, you can select to play a new game or go back to the main menu
-
-**Multiplayer Bluetooth**
-1. To play multiplayer bluetooth, press "Two Player"
-2. Select "Bluetooth" on the game type
-3. Enter a username
-4. Press Start
-5. If bluetooth is not on, app request to turn it on, select "Allow"
-6. Press the magnifiying glass icon on the taskbar to find available devices/ paired devices
-7. Press the location marker beside the magnifying glass to enable bluetooth discoverable to allow device to be found
-8. Once a device is found and connected using the search icon, the game will start automatically
-9. Host player goes first, Play Tic Tac Toe as you normally would
-10. Once game is over, you can select to play a e=new game or go back to main menu
+<br />
+**Multiplayer Local** <br />
+1. To play multiplayer local, press "Two Player" <br />
+2. Select "Local" on the game type <br /> 
+3. Enter a name for player one and player two <br />
+4. Select player one's marker: "X" or "O" <br />
+5. Press Start <br />
+6. Player One goes first, Play Tic Tac Toe as you normally would <br />
+7. Once game is over, you can select to play a new game or go back to the main menu <br />
+<br />
+**Multiplayer Bluetooth** <br />
+1. To play multiplayer bluetooth, press "Two Player" <br />
+2. Select "Bluetooth" on the game type <br />
+3. Enter a username <br />
+4. Press Start <br />
+5. If bluetooth is not on, app request to turn it on, select "Allow" <br />
+6. Press the magnifiying glass icon on the taskbar to find available devices/ paired devices <br />
+7. Press the location marker beside the magnifying glass to enable bluetooth discoverable to allow device to be found <br />
+8. Once a device is found and connected using the search icon, the game will start automatically <br />
+9. Host player goes first, Play Tic Tac Toe as you normally would <br />
+10. Once game is over, you can select to play a e=new game or go back to main menu <br />
 
