@@ -44,5 +44,5 @@ Game intructions: <br />
 7. Press the location marker beside the magnifying glass to enable bluetooth discoverable to allow device to be found <br />
 8. Once a device is found and connected using the search icon, the game will start automatically <br />
 9. Host player goes first, Play Tic Tac Toe as you normally would <br />
-10. Once game is over, you can select to play a e=new game or go back to main menu <br />
+10. Once game is over, you can select to play a new game or go back to main menu <br />
 
