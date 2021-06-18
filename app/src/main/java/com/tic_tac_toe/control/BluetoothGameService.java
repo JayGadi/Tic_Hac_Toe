@@ -84,6 +84,7 @@ public class BluetoothGameService {
         }
         setState(STATE_CONNECTED);
     }
+
     public synchronized void connect(BluetoothDevice device, String marker) {
 
         this.marker = marker;
@@ -98,7 +99,6 @@ public class BluetoothGameService {
         setState(STATE_CONNECTING);
 
     }
-
 
     public synchronized void connected(BluetoothSocket socket, BluetoothDevice device) {
         if (D) Log.d(TAG, "connected");
